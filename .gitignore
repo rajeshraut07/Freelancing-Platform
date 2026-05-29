@@ -1,0 +1,31 @@
+# React
+Frontend/node_modules
+Frontend/build
+
+# Spring Boot
+Backend/target
+
+# Eclipse
+Backend/.classpath
+Backend/.project
+Backend/.settings/
+
+# IntelliJ
+.idea
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment Files
+.env
+
+# Java
+*.class
